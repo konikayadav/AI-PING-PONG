@@ -1,0 +1,12 @@
+body
+{
+
+}
+#heading {
+    font-weight: bold;
+    padding: 5px;
+
+}
+ol, #instruction_page {
+color: black !important;;
+}
